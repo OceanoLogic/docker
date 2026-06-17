@@ -1,0 +1,5 @@
+export AWS_PROFILE="gheorghi"
+export AWS_PATH="$HOME/.aws"
+export SSH_PATH="$HOME/.ssh"
+export GIT_REPO_HOME="$HOME/Documents/GitHub/digital-coe-python"
+export DOCKER_SHARE="$HOME/.glue_docker"

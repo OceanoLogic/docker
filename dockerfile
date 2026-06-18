@@ -27,6 +27,8 @@ RUN pip3 install \
     jupyterlab \
     notebook
 
+# Install required system tools and add Azure
+pip3 install azure-cli
 
 # Create required directories
 RUN mkdir /home/hadoop/git 
